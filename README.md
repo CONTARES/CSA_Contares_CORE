@@ -19,10 +19,7 @@ In total about 190 parts!
 - Installation of KIS and KAS (Many Capsules, Spaceplanes and Storage-Modules use KIS/KAS)
 - Installation of ScanSat (for RADAR and other Scanner)
 
-In this directory you find a alternative setting for Scale-Types of TweakScale. To use copy the defaultscale.cfg to the GameData/Tweakscale folder.
-
 All parts of this mod are licensed by 
-
 creativecommons.org
 by-nc 4.0
 
