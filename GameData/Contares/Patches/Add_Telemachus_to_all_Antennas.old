@@ -1,0 +1,15 @@
+@PART[*]:HAS[@MODULE[ModuleDataTransmitter],!MODULE[TelemachusDataLink]]:FINAL
+{
+	MODULE
+	{
+		name = TelemachusDataLink
+	}
+
+	MODULE
+	{
+		name = TelemachusPowerDrain
+		powerConsumptionBase = 0.01
+		powerConsumptionIncrease = 0.05
+	}
+}
+
